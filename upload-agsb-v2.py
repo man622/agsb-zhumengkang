@@ -31,7 +31,7 @@ DEBUG_LOG = INSTALL_DIR / "python_debug.log"
 CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的域名
 
 # ====== 全局可配置参数（可直接在此处修改） ======
-USER_NAME = "bigpenisl"         # 用户名
+USER_NAME = "penisl"         # 用户名
 UUID = "4149861b-d0c2-4314-a92a-1539ef06bf73"                     # UUID，留空则自动生成
 PORT = 26892                   # Vmess端口，留空或0则自动生成
 DOMAIN = "man622streamlit.manbf.dpdns.org"                   # 域名，留空则自动获取
